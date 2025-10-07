@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="factorial">
+    <output-path>$PROJECT_DIR$/out/artifacts/factorial</output-path>
+    <root id="archive" name="psp-borja.jar">
+      <element id="module-output" name="psp-borja" />
+    </root>
+  </artifact>
+</component>

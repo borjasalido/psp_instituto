@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ReadFilev2">
+    <output-path>$PROJECT_DIR$/out/artifacts/ReadFilev2</output-path>
+    <root id="archive" name="ReadFilev2.jar">
+      <element id="module-output" name="psp-borja" />
+    </root>
+  </artifact>
+</component>
